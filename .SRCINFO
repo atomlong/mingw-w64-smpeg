@@ -2,7 +2,6 @@ pkgbase = mingw-w64-smpeg
 	pkgdesc = SDL MPEG Player Library (mingw-w64)
 	pkgver = 0.4.5
 	pkgrel = 3
-	epoch = 1
 	url = http://icculus.org/smpeg
 	arch = any
 	license = LGPL
@@ -16,4 +15,3 @@ pkgbase = mingw-w64-smpeg
 	sha256sums = SKIP
 
 pkgname = mingw-w64-smpeg
-

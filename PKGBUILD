@@ -1,5 +1,4 @@
 pkgname=mingw-w64-smpeg
-epoch=1
 pkgver=0.4.5
 pkgrel=3
 pkgdesc="SDL MPEG Player Library (mingw-w64)"
